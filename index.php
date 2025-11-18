@@ -13,7 +13,7 @@ $html_content = <<<HTML
     <meta name="description" content="Erfahren Sie, warum 24-Stunden-Pflege zu Hause für 72% der Deutschen die bevorzugte Alternative zum Pflegeheim ist. Kosten, Qualität & Flexibilität im Vergleich.">
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     <meta name="keywords" content="24-Stunden-Pflege, Pflegedienst, Alternative zum Pflegeheim, häusliche Pflege, Betreuungskraft, Sauerland, Nordrhein-Westfalen, Pflegekraft Osteuropa">
-    
+    <link rel="canonical"https://stunden-pflege-ce02177b9354.herokuapp.com/">
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="24-Stunden-Pflege als Alternative zum Pflegeheim: 72% der Deutschen bevorzugen häusliche Betreuung">
     <meta property="og:description" content="Erfahren Sie, warum 24-Stunden-Pflege zu Hause für 72% der Deutschen die bevorzugte Alternative zum Pflegeheim ist.">
