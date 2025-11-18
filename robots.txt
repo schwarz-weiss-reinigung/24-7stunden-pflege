@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://schlusseldienst-lowe.netlify.app/sitemap.xml
+Sitemap: https://stunden-pflege-ce02177b9354.herokuapp.com/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
