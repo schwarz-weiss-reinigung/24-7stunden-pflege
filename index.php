@@ -8,6 +8,7 @@ $html_content = <<<HTML
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="3mzUiSIoLmrq_m8ZCPRRbJlnHo78RZncHEqYA3HMC7g" />
     <title>24-Stunden-Pflege als Alternative zum Pflegeheim: 72% der Deutschen bevorzugen häusliche Betreuung</title>
     <meta name="description" content="Erfahren Sie, warum 24-Stunden-Pflege zu Hause für 72% der Deutschen die bevorzugte Alternative zum Pflegeheim ist. Kosten, Qualität & Flexibilität im Vergleich.">
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
